@@ -1,7 +1,7 @@
 <h1 align="center">Move It</h1>
 
 <p align="center">
-  <img src="/mnt/data/image.png" alt="Move It Screenshot" width="600">
+  <img src="https://github.com/itzdiv/Bootstrap_proj1/blob/main/sss1.png" alt="Move It Screenshot" width="600">
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <h2>Screenshot</h2>
 <p align="center">
-  <img src="/mnt/data/image.png" alt="Move It Screenshot" width="600">
+  <img src="https://github.com/itzdiv/Bootstrap_proj1/blob/main/sss2.png" alt="Move It Screenshot" width="600">
 </p>
 
 <h2>How to View the Project</h2>
